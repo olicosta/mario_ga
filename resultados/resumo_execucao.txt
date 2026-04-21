@@ -1,0 +1,24 @@
+RESUMO DA EXECUÇÃO DO ALGORITMO GENÉTICO
+==================================================
+
+Data/Hora: 17/04/2026 21:58:07
+
+PARÂMETROS UTILIZADOS
+-------------------------
+tamanho_populacao: 80
+tamanho_cromossomo: 90
+geracoes: 100
+elitismo: 2
+taxa_mutacao: 0.08
+tamanho_torneio: 3
+
+MELHOR SOLUÇÃO ENCONTRADA
+-------------------------
+Melhor fitness: 1560
+Posição final X: 47
+Posição final Y: 2
+Vivo: True
+Venceu: True
+Passos executados: 90
+Cromossomo vencedor:
+[3, 1, 1, 2, 1, 2, 2, 3, 0, 3, 0, 1, 3, 3, 3, 0, 0, 2, 1, 0, 1, 1, 2, 3, 0, 1, 3, 1, 3, 2, 3, 1, 0, 3, 3, 2, 2, 1, 0, 0, 3, 3, 3, 1, 0, 0, 0, 2, 0, 2, 2, 0, 3, 2, 2, 0, 2, 2, 2, 1, 0, 1, 0, 3, 3, 0, 1, 1, 3, 3, 0, 1, 2, 3, 2, 2, 2, 3, 1, 3, 3, 0, 2, 3, 3, 0, 3, 1, 2, 1]
